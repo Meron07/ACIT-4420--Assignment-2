@@ -1,6 +1,6 @@
 
 [
-  {"name": "Abel", "email": "alice@example.com", "course": "Python Scripting", "preferred_time": "08:00"},
+  {"name": "Abel", "email": "abel@example.com", "course": "Python Scripting", "preferred_time": "08:00"},
   {"name": "Henok", "email": "bob@example.com", "course": "Networks", "preferred_time": "09:30"},
   {"name": "Charlie", "email": "charlie@example.com", "course": "Data Structures", "preferred_time": "07:45"}
 ]
