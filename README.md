@@ -12,7 +12,7 @@ A modular Python package that automates generating and (simulated) sending perso
 - Schedule automatic delivery
 
 ## Usage
-
+```bash
 pip install -e .
 python main.py --run-once
 
