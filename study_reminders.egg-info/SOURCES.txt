@@ -1,0 +1,9 @@
+README.md
+setup.py
+study_reminders.egg-info/PKG-INFO
+study_reminders.egg-info/SOURCES.txt
+study_reminders.egg-info/dependency_links.txt
+study_reminders.egg-info/requires.txt
+study_reminders.egg-info/top_level.txt
+tests/test_modules.py
+tests/test_students.py
